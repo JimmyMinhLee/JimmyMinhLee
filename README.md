@@ -1,4 +1,4 @@
-### Hi there 👋
+### hey, and welcome to my github. 
 
 <!--
 **JimmyMinhLee/JimmyMinhLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+currently a senior at uc berkeley studying computer science. passionate about a lot of things, and an active pursuer in all of them. if you're further interested in what i'm up to, check out my [website](https://jimmyminhlee.github.io).
+
+i'm in the process of updating it and releasing the template, so check back in the coming weeks to see that. 
